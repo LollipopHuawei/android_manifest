@@ -13,7 +13,7 @@
      <project path="hardware/atheros/wlan" name="SlimLP-Y300/android_hardware_atheros_wlan" remote="github" revision="lp5.0" />
 
      <!-- GPS -->
-     <remove-project name="SlimRoms/hardware_qcom_gps" />
+     <remove-project name="CyanogenMod/android_hardware_qcom_gps" />
      <project path="hardware/qcom/gps" name="chil360/android_hardware_qcom_gps" remote="github" revision="kitkat" />
 
      <!-- QCOM Hardware -->
